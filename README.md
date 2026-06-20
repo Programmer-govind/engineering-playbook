@@ -1,6 +1,6 @@
 # Engineering Playbook
 
-A collection of real-world backend engineering case studies, architecture decisions, production learnings, performance optimizations, and system design discussions gathered while working on ERP, LMS, SaaS, and Microservices-based platforms.
+My personal collection of real-world backend engineering case studies, architecture decisions, production learnings, performance optimizations, and system design discussions gathered while working on ERP, LMS, SaaS, and Microservices-based platforms.
 
 ## Overview
 This repository serves as a knowledge base and reference point for engineering maturity, focusing on backend systems, architecture tradeoffs, and production reliability.
